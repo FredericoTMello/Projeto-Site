@@ -1,2 +1,2 @@
 # Projeto-Site
- Projeto de um site cirado durante o curso GustavoGuanabara
+ Projeto de um site criado durante o curso GustavoGuanabara
